@@ -11,5 +11,5 @@ export default defineConfig({
     },
   },
   plugins: [vue()],
-  base: "/https://github.com/MiguelSJimenezV/InDriverProject.git/",
+  base: "/InDriverProject/",
 });
