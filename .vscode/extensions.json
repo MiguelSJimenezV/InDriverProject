@@ -1,0 +1,7 @@
+{
+  "recommendations": ["Vue.volar"],
+  "singleQuote": true,
+  "semi": false,
+  "tabWidth": 2,
+  "vueIndentScriptAndStyle": true
+}

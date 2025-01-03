@@ -1,0 +1,13 @@
+<script setup>
+import Navbar from "../components/Navbar.vue";
+import Form from "../components/Form.vue";
+import Footer from "../components/Footer.vue";
+</script>
+
+<template>
+  <Navbar></Navbar>
+
+  <Form></Form>
+
+  <Footer></Footer>
+</template>

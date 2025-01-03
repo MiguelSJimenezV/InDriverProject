@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "http://localhost/per-2.png",
+        "nombre": "María Pérez",
+        "edad": "Edad: 28 años",
+        "descripcion":
+          "Conoció nuestra página mientras buscaba nuevas oportunidades para promocionar su música."
+      },
+      {
+        "id": 2,
+        "img": "http://localhost/per-2.png",
+        "nombre": "Juan Rodríguez",
+        "edad": "Edad: 28 años",
+        "descripcion":
+          "Descubrió nuestra plataforma a través de un amigo que le recomendó distribuir su música aquí."
+      },
+      {
+        "id": 3,
+        "img": "http://localhost/per3.png",
+        "nombre": "Ana Gutiérrez",
+        "edad": "Edad: 30 años",
+        "descripcion":
+          "Se unió a nuestra comunidad después de ver una publicación en redes sociales sobre cómo promocionar su música de forma independiente."
+      }
+]
